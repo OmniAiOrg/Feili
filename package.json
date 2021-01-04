@@ -1,0 +1,8 @@
+{
+  "name": "feili-monitor-app",
+  "version": "0.0.7",
+  "main": "electron.prod.js",
+  "description": "Angular CLI + Electron",
+  "productName": "Angular CLI + Electron",
+  "license": "MIT"
+}
