@@ -1,8 +1,8 @@
 {
-  "name": "Feili Electron",
-  "short_name": "Feili",
+  "name": "Feili Electron Monitor",
+  "short_name": "Feili Monitor",
   "theme_color": "#000000",
-  "background_color": "#fafafa",
+  "background_color": "#ffffff",
   "display": "standalone",
   "scope": "./",
   "start_url": "./#/application",
