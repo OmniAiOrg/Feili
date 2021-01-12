@@ -1,11 +1,12 @@
 {
   "name": "Feili Electron Monitor",
-  "short_name": "Feili Monitor",
-  "theme_color": "#000000",
+  "short_name": "Monitor",
+  "description": "Feili Control App for monitoring motor vibration. More info: openmc.cn",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./#/application",
+  "scope": "./#/desktop",
+  "start_url": "./#/desktop",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",

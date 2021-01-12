@@ -38,7 +38,7 @@ const createWindow = () => {
             console.log(err);
         });
 
-        // win.webContents.openDevTools();
+        win.webContents.openDevTools();
 
         // Emitted when the window is closed.
         win.on('closed', () => {
