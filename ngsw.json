@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610454455178,
+  "timestamp": 1611294862396,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "./electron.prod.js",
         "./index.html",
-        "./main-es2015.9cca41594f7218b1c1e3.js",
-        "./main-es5.9cca41594f7218b1c1e3.js",
+        "./main-es2015.f60dda130403b73beee0.js",
+        "./main-es5.f60dda130403b73beee0.js",
         "./manifest.webmanifest",
         "./polyfills-es2015.24ea368e110f7f07889e.js",
         "./polyfills-es5.8139562032f54e8f194a.js",
@@ -90,9 +90,9 @@
     "./icons.62d9dae4e0040e81c980.svg": "ebcf4cc735912d8da1ab2395738b7950df3df9ff",
     "./icons.a01e3f2d6c83dc3aee17.eot": "b7de2e1d65766852486de24b36a46240f4ae5994",
     "./icons.c656b8caa454ed19b9a2.ttf": "cedd7227091b22f873e3856d84c3dfd974745048",
-    "./index.html": "622c540693f48a4dba36c84a00242d8502d39fc8",
-    "./main-es2015.9cca41594f7218b1c1e3.js": "66896c70bb85a4f9c7b1cfbfa45c9c2552b85850",
-    "./main-es5.9cca41594f7218b1c1e3.js": "708f9289e2101e302659fed5d1d51fa01fefea64",
+    "./index.html": "a63eef443614cbeb1f274c5f27879b89967dc76c",
+    "./main-es2015.f60dda130403b73beee0.js": "33aaf8762649c9d991e01649aa7fc6970c4e94fc",
+    "./main-es5.f60dda130403b73beee0.js": "c38d5665021f07a9f2a37b81b8911ed37619fc82",
     "./manifest.webmanifest": "49cfa561ff9b845ec40baf00143a48d166d2ae92",
     "./outline-icons.5367103510b27b784827.ttf": "7f80f427d3dee7d4ff27a1546b4ad5acd9810a88",
     "./outline-icons.687a4990ea22bb1a49d4.woff2": "e5b717fe5d8f54038e432721dd530e7da505447b",
