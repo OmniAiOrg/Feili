@@ -27,6 +27,10 @@ const createWindow = () => {
             titleBarStyle: 'hidden',
             backgroundColor: '#000000',
             // transparent: true,
+            webPreferences: {
+                nodeIntegration: true,
+                nodeIntegrationInWorker: true
+            }
         });
 
         // and load the index.html of the app.
@@ -38,7 +42,7 @@ const createWindow = () => {
             console.log(err);
         });
 
-        win.webContents.openDevTools();
+        // win.webContents.openDevTools();
 
         // Emitted when the window is closed.
         win.on('closed', () => {
